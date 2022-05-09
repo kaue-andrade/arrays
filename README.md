@@ -8,4 +8,4 @@ Como consultar dados ✔️ <br/>
 Como alterar dados ✔️ <br/>
 Como deletar dados ✔️ <br/>
 
-Por: Kauê Andrade dos Santos
+**Feito por**: Kauê Andrade dos Santos
