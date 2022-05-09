@@ -2,10 +2,10 @@
 
 Exemplos de array em na linguagem Java.
 
-Como criar um array ✔️
-Como armazenar dados ✔️
-Como consultar dados ✔️
-Como alterar dados ✔️
-Como deletar dados ✔️
+Como criar um array ✔️ <br/>
+Como armazenar dados ✔️ <br/>
+Como consultar dados ✔️ <br/>
+Como alterar dados ✔️ <br/>
+Como deletar dados ✔️ <br/>
 
 Por: Kauê Andrade dos Santos
